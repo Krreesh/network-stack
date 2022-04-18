@@ -10,11 +10,19 @@
     "test": "jest"
   },
   "devDependencies": {
-    "aws-cdk": "2.20.0",
+    "aws-cdk": "2.20",
     "jest": "^26.4.2"
   },
   "dependencies": {
     "aws-cdk-lib": "2.20.0",
     "constructs": "^10.0.0"
-  }
+  },
+  "description": "This is a blank project for JavaScript development with CDK.",
+  "main": "jest.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
 }
